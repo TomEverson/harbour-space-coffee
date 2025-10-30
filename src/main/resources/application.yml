@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Harbour Space Coffee
+
+server:
+  port: 8081
