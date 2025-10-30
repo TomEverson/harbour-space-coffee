@@ -29,6 +29,15 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+### Kotlin Logging
+Documentation for kotlin-logging framework used in this project:
+
+* [kotlin-logging GitHub](https://github.com/oshai/kotlin-logging) - Main repository and documentation
+* [Guide to Kotlin-Logging](https://www.baeldung.com/kotlin/kotlin-logging-library) - Comprehensive tutorial
+* [Logback Configuration](https://logback.qos.ch/manual/configuration.html) - Logback configuration reference
+
+The logging configuration can be found in `src/main/resources/logback-spring.xml`. You can adjust log levels and patterns there.
+
 ### Kotest Testing Framework
 Documentation for Kotest testing framework used in this project:
 

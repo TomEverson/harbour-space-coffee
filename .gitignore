@@ -34,3 +34,7 @@ bin/
 
 # Application
 application-local.properties
+
+# Logs
+logs/
+*.log
